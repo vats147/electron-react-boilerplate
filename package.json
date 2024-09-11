@@ -186,7 +186,7 @@
     ],
     "mac": {
       "sign": ".erb/scripts/notarize.js",
-      "notarize": false,
+      "notarize": true,
       "target": {
         "target": "default",
         "arch": [
